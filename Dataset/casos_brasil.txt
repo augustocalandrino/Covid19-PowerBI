@@ -1,0 +1,38 @@
+Casos nos Estados: 
+
+.----------------.
+| Estado | Casos |
+|--------|-------|
+| TOTAL  | 22418 |
+| SP     |  8755 |
+| RJ     |  2855 |
+| CE     |  1745 |
+| AM     |  1206 |
+| PE     |   960 |
+| MG     |   806 |
+| SC     |   776 |
+| PR     |   750 |
+| BA     |   674 |
+| RS     |   664 |
+| DF     |   618 |
+| MA     |   445 |
+| ES     |   430 |
+| RN     |   304 |
+| PA     |   259 |
+| AP     |   237 |
+| GO     |   229 |
+| MT     |   123 |
+| PB     |   110 |
+| MS     |   101 |
+| RR     |    83 |
+| AC     |    77 |
+| PI     |    51 |
+| AL     |    48 |
+| SE     |    44 |
+| RO     |    42 |
+| TO     |    26 |
+'----------------'
+
+* Dados atualizados em 12/04/2020 22:53:11
+
+Para mais informações, digite /faq

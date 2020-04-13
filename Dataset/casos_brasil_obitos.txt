@@ -1,0 +1,38 @@
+Óbitos nos Estados: 
+
+.-----------------.
+| Estado | Óbitos |
+|--------|--------|
+| TOTAL  |   1234 |
+| SP     |    588 |
+| RJ     |    170 |
+| PE     |     85 |
+| CE     |     76 |
+| AM     |     62 |
+| PR     |     31 |
+| MA     |     27 |
+| SC     |     24 |
+| BA     |     21 |
+| MG     |     20 |
+| RS     |     16 |
+| RN     |     15 |
+| DF     |     14 |
+| ES     |     14 |
+| GO     |     14 |
+| PA     |     13 |
+| PB     |     13 |
+| PI     |      7 |
+| AP     |      5 |
+| SE     |      4 |
+| AL     |      3 |
+| MT     |      3 |
+| RR     |      3 |
+| AC     |      2 |
+| MS     |      2 |
+| RO     |      2 |
+| TO     |      0 |
+'-----------------'
+
+* Dados atualizados em 13/04/2020 08:37:30
+
+Para mais informações, digite /faq
